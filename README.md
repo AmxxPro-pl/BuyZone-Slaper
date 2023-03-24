@@ -27,7 +27,7 @@ amxxpro_afk_spawntime" "5"       //Co ile sekund plugin ma sprawdzac czy gracz j
 <details>
   <summary><b>Server</b></summary>
   
-  - Prepare for Question HUD
+  - Player AFK - Slap information
   
   <img src="https://github.com/AmxxPro-pl/BuyZone-Slaper/blob/main/img/afk.png"></img>
 </details>
